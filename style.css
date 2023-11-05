@@ -1,0 +1,17 @@
+.custom-header{
+    background: rgba(255, 255, 255, 0.854)url('./asset/background.jpg');
+    background-size: cover;
+    background-blend-mode: color-burn;
+    /* background-color: rgba(255, 255, 255, 0.9); */
+    /* opacity: 75%; */
+}
+.custom-alert{
+    background-color: blanchedalmond;
+    color: brown;
+    font-weight: bold;
+    font-size: 10px;
+}
+.custom-alert h4{
+    font-size: 12px;
+    font-weight: bold;
+}
